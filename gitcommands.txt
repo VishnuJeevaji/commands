@@ -1,0 +1,17 @@
+GIT COMMANDS
+
+1. git config - This command sets the author name and email address respectively 
+					to be used with your git commits.
+		USAGE: git config --global user.name "Vishnu"
+		USAGE: git config --global user.email "vishnujeevaji@gmail.com"
+
+2. git init - This command is used to start  a new repository.
+		USAGE: git init MyGitRepo
+
+3. git clone - This command is used to obtain a repository from an existing URL.
+		USAGE: git clone https://github.com/....
+
+
+4. git add - This command adds a file to staging area.
+		USAGE: git add gitcommands
+	~ git add * : Adds one or more files to staging area.
